@@ -38,6 +38,7 @@ const addTask = () => {
         LI.appendChild(SPAN)
         saveData()
     }
+    inputBox.value = '' 
 }
 
 listCont.addEventListener('click', (e) => {
