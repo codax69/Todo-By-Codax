@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -64,7 +64,7 @@ ul li {
     list-style: none;
     font-size: 17px;
     padding: 12px 8px 12px 50px;
-    user-select: none;
+    -webkit-user-select: none;
     cursor: pointer;
     position: relative;
 }
